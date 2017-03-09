@@ -1,0 +1,24 @@
+body {
+  background-color: #FFD3D9;
+   font-family: "Times", Times, serif;
+   font-size: 110%
+}
+
+h1 {
+    font-family: cursive; "Arial", Times, serif;
+    font-size: 250%
+}
+
+nav {
+  background-color:#D3FFF9;
+  width: 95%;
+  padding: 2%;
+}
+  a{
+    text-decoration: none;
+     font-family: "Lucinda Console", monospace;
+     font-style: bold;
+     font-size: 100%
+margin-left: 1o%;
+margin-right: 10%;
+  }
